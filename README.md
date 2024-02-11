@@ -7,6 +7,6 @@ Proejt do Mini Curso Inicial de Desenvolvimento Web! Este projeto foi desenvolvi
 
 - **`index.html`:** Arquivo principal contendo a estrutura básica da página web.
 - **`src`** Pasta com arquivos css, js e imagens
-  |-- **`css`**
-  |-- **`imagens`**
-  |-- **`js`**
+-|-- **`css`**
+-|-- **`imagens`**
+-|-- **`js`**
